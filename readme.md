@@ -2,6 +2,8 @@
 
 ![Rust Kernel Driver EDR Sanctum](imgs/evidence/sanctum-cover.webp)
 
+**Please note, I will no longer be working on this project.**
+
 The Sanctum EDR is an &#128679; **experimental and in development** &#128679; proof of concept for an EDR (Endpoint Detection and Response) tool, fully written in Rust! No
 C required in this project baby!
 
